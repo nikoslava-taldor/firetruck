@@ -1,0 +1,117 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "uk.co.workingedge.phonegap.plugin.launchnavigator@^4.1.3",
+        "scope": null,
+        "escapedName": "uk.co.workingedge.phonegap.plugin.launchnavigator",
+        "name": "uk.co.workingedge.phonegap.plugin.launchnavigator",
+        "rawSpec": "^4.1.3",
+        "spec": ">=4.1.3 <5.0.0",
+        "type": "range"
+      },
+      "C:\\Projects\\Kabaut\\Kabaut\\Kabaut.FireTruck.Cordova"
+    ]
+  ],
+  "_from": "uk.co.workingedge.phonegap.plugin.launchnavigator@>=4.1.3 <5.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "uk.co.workingedge.phonegap.plugin.launchnavigator@4.2.2",
+  "_inCache": true,
+  "_location": "/uk.co.workingedge.phonegap.plugin.launchnavigator",
+  "_nodeVersion": "8.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/uk.co.workingedge.phonegap.plugin.launchnavigator_4.2.2_1535487133093_0.14491591999086473"
+  },
+  "_npmUser": {
+    "name": "davealden",
+    "email": "dave@workingedge.co.uk"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "uk.co.workingedge.phonegap.plugin.launchnavigator@^4.1.3",
+    "scope": null,
+    "escapedName": "uk.co.workingedge.phonegap.plugin.launchnavigator",
+    "name": "uk.co.workingedge.phonegap.plugin.launchnavigator",
+    "rawSpec": "^4.1.3",
+    "spec": ">=4.1.3 <5.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/uk.co.workingedge.phonegap.plugin.launchnavigator/-/uk.co.workingedge.phonegap.plugin.launchnavigator-4.2.2.tgz",
+  "_shasum": "9a9e3027fc71c2f043b89d7128b3c0fa45944261",
+  "_shrinkwrap": null,
+  "_spec": "uk.co.workingedge.phonegap.plugin.launchnavigator@^4.1.3",
+  "_where": "C:\\Projects\\Kabaut\\Kabaut\\Kabaut.FireTruck.Cordova",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "bugs": {
+    "url": "https://github.com/dpa99c/phonegap-launch-navigator/issues"
+  },
+  "cordova": {
+    "id": "uk.co.workingedge.phonegap.plugin.launchnavigator",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8",
+      "windows"
+    ]
+  },
+  "cordova_name": "Launch Navigator",
+  "dependencies": {},
+  "description": "Cordova/Phonegap plugin to navigate to a destination using native navigation apps on Android, iOS, and Windows Phone",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-KpLGHrY3tX3Ysj39Q4whQawIleKomhsq48zBAqZXDxs/wxAnWcMvIxgix3AIB5CMdjetF6JNYZAGBOqsNkl+0g==",
+    "shasum": "9a9e3027fc71c2f043b89d7128b3c0fa45944261",
+    "tarball": "https://registry.npmjs.org/uk.co.workingedge.phonegap.plugin.launchnavigator/-/uk.co.workingedge.phonegap.plugin.launchnavigator-4.2.2.tgz",
+    "fileCount": 19,
+    "unpackedSize": 316196,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbhayeCRA9TVsSAnZWagAAvSsP/2cRJtH/t9+028sfAeun\naVstSC+6rEUGAP+mmhFxS5w8ax4wBpv0ga0qtpBnxpFpIjotW2yJJodGCjig\neLmZQaqsdL+LkubgBCqNdq80FcS9m9yK7jPgThspIZ1sanymsjeLhEfT39Gr\nD4CPLTbAnmECoQK5jjqV+sQ2fjgdfdEYcVf+CvD6DtzpFsBU7ba5iCPZcVpl\nfaqRT+Gwkq7R+Cj1agyxMfqlIT1WlfKUk1dEZEhKkHsX/X8CJBrnyKlJkZUf\nWLZL0l686dYH74fCRWEjn0hWNCfJVIWPD4N6eezZBSOQiCeEi6JJiYM7a5s4\noBAK6E15lKTBY5hS6wLxpthFliYHYjIF97fagl+4wRS+FivxcuZiuOXeBsE3\nnpQ8tT2LJQ+O3sb8vZUMLadWOdHs9gTT8E58/sb7j0boZquG4epQ+O5J4uJg\nr6Wi5HKF6MgmUBNqR6V7QazRyopImQVFCsF3WFJFTJjswUAtJrBr2qY+WQ9t\nYKKH3RHS4Q6QcZIrtvTNSRLBMszUPFGVmKh7bonzVt39TreAFJxL2424ZzX8\nYlA9DCeB4HhhV3r0eqwLoI8lUVfteV0xGVnkqDgqq5c1aJGP2eTeEQbijd2P\nAxp9OkmVeX8mYsEkA2TY/g4dgaE+dvO0mINAFzFOh1dpepmDRz3/x7QYKyC3\nxMyc\r\n=L2tu\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "4.0.0": {
+        "cordova": ">=7.1.0",
+        "cordova-android": ">=6.3.0",
+        "cordova-ios": ">=4.3.0"
+      }
+    }
+  },
+  "gitHead": "37495a427e6ae92a76729ee6a3fdbef196fc6bee",
+  "homepage": "https://github.com/dpa99c/phonegap-launch-navigator#readme",
+  "issue": "https://github.com/dpa99c/phonegap-launch-navigator/issues",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "phonegap",
+    "ios",
+    "android",
+    "windows",
+    "wp8",
+    "navigation",
+    "navigator"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "davealden",
+      "email": "dave@workingedge.co.uk"
+    }
+  ],
+  "name": "uk.co.workingedge.phonegap.plugin.launchnavigator",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpa99c/phonegap-launch-navigator.git"
+  },
+  "types": "./uk.co.workingedge.phonegap.plugin.launchnavigator.d.ts",
+  "version": "4.2.2"
+}

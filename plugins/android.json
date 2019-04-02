@@ -1,0 +1,38 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.taldor.firetruck"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.taldor.firetruck"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.taldor.firetruck"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.taldor.firetruck"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.taldor.firetruck"
+    },
+    "uk.co.workingedge.phonegap.plugin.launchnavigator": {
+      "OKHTTP_VERSION": "3.+",
+      "PACKAGE_NAME": "com.taldor.firetruck"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-actionsheet": {
+      "PACKAGE_NAME": "com.taldor.firetruck"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.taldor.firetruck"
+    }
+  }
+}
